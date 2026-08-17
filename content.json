@@ -1,0 +1,197 @@
+{
+  "meta": {
+    "author": "발표자",
+    "body_scale": "1.5",
+    "deck_title": "디지털포렌식과 형사소송법",
+    "scaffold": "amber-bright",
+    "sub": "제2강 권리보호와 수사절차",
+    "title": "디지털포렌식과 형사소송법"
+  },
+  "slides": [
+    {
+      "author": "부산지방고용노동청 디지털포렌식팀",
+      "date": "2026.00.00",
+      "kicker": "PRESENTATION",
+      "signature": "",
+      "subtitle": "서류는 누가 참여하여 서명하는가",
+      "title_en": "제2강 권리보호와 수사절차",
+      "title_ko": "디지털포렌식과 형사소송법",
+      "type": "title"
+    },
+    {
+      "body_html": "<ul><li>1. 물건에 대한 <strong>기본권</strong>을 이해한다</li><li>2. 수사의 기본권 제한과 <strong>기본권 방어</strong>를 위하 설계된 수사상 절차를 이해한다</li></ul>",
+      "footer_note": "",
+      "heading_en": "",
+      "heading_ko": "학습목표",
+      "type": "content"
+    },
+    {
+      "type": "visual",
+      "heading_ko": "생각해보기",
+      "heading_en": "서식을 작성할 때 누구에게 서명을 받을까?",
+      "figure_html": "<img src=\"images/fb6c946f-96e3-4bd1-be96-ec22afaa6fcb - 복사본.png\">",
+      "caption": "",
+      "footer_note": ""
+    },
+    {
+      "_도움말": "목차는 비워 두세요. build 하면 덱 안의 chapter 슬라이드 제목·번호가 자동으로 채워집니다.",
+      "footer_note": "",
+      "heading_en": "",
+      "heading_ko": "",
+      "type": "toc"
+    },
+    {
+      "chapter_figure": "",
+      "signature": "chapter // {{chapter_num}} of {{chapter_total}}",
+      "title_en": "Fundamental rights",
+      "title_ko": "물건과 기본권",
+      "type": "chapter"
+    },
+    {
+      "body_html": "<ul><li>민법 제4장 물건</li><li>제98조(물건의 정의) 본법에서 물건이라 함은 <strong>유체물</strong> 및 <strong>전기 </strong>기타 관리할 수 있는 <strong>자연력</strong>을 말한다.</li></ul>",
+      "footer_note": "",
+      "heading_en": "",
+      "heading_ko": "물건",
+      "type": "content"
+    },
+    {
+      "_도움말": "figure_html 에 <img src=\"C:/사진/a.jpg\"> 또는 <video src=...> 또는 <table>...</table> 를 넣으세요. 사진·영상은 절대경로나 파일명을 적고 build 하면 덱 images//videos/ 로 자동 복사·경로 정리됩니다.",
+      "caption": "민법  제2편 물권",
+      "figure_html": "<img src=\"images/물권.png\">",
+      "footer_note": "",
+      "heading_en": "物權, real right",
+      "heading_ko": "물건에 부여되는 권리",
+      "type": "visual"
+    },
+    {
+      "caption": "",
+      "figure_html": "<img src=\"images/유체물권.png\">",
+      "footer_note": "",
+      "heading_en": "chattels",
+      "heading_ko": "동산과 권리",
+      "type": "visual"
+    },
+    {
+      "caption": "도둑이 훔쳐간 물건을 영장없이 압수할 수 있을까?",
+      "figure_html": "<img src=\"images/물권의 계층화.png\">",
+      "footer_note": "",
+      "heading_en": "Do not  memorize, just see and understand",
+      "heading_ko": "동산의 계층화",
+      "type": "visual"
+    },
+    {
+      "body_html": "<ul><li>법인이 사용 중인 <strong>임대 </strong>PC</li><li><strong>카카오톡이 관리</strong>하는 메신저를 사용하는 피의자의 휴대전화 내용</li><li>수사 중 압수를 피하기 위해 <strong>건물 밖으로 던진</strong> 휴대전화</li><li>사장님 폰을 <strong>몰래</strong> 들고 온 직원</li><li>&gt; 누구를 참여시키고 서명을 받아야 할까?(=누구의 권리를 보장하여야 하는가?)</li></ul>",
+      "footer_note": "",
+      "heading_en": "oh my god",
+      "heading_ko": "생각해보기",
+      "type": "content"
+    },
+    {
+      "chapter_figure": "",
+      "signature": "section // {{chapter_num}} of {{chapter_total}}",
+      "title_en": "Seizure & things",
+      "title_ko": "압수와 압수목적물",
+      "type": "chapter"
+    },
+    {
+      "caption": "",
+      "figure_html": "<video src=\"videos/20240429_압수수색 현장 영상.mp4\" controls width=100%></video>",
+      "footer_note": "",
+      "heading_en": "CAN YOU RUN field alone?",
+      "heading_ko": "압수수색 현장은 어떻게 돌아가나",
+      "type": "visual"
+    },
+    {
+      "caption": "민법상 물건에 관한 연구 -성균관대학교-",
+      "figure_html": "<img src=\"images/유체물과 무체물.png\" width=110%>",
+      "footer_note": "",
+      "heading_en": "tangibles vs intangibles",
+      "heading_ko": "유체물과 무체물",
+      "type": "visual"
+    },
+    {
+      "body_html": "<ul><li>[ 디지털 증거는 압수 대상인가? ]</li><li>부정설: 디지털 증거는 <strong>물건</strong>이 아니다(신동운, 신형사소송법, 2012, 343p)</li><li>긍정설: 형소법 제106조 제3항 -  압수수색방법은 원칙적 출력 복제이므로 디지털 증거가 압수물임을 긍정한 것(이숙연, 디지털증거의 압수수색, 2011, 660p)</li><li>with 영장주의원칙: 사전영장신청 + 일반영장의 금지 (국민의 기본권 보장)</li></ul>",
+      "footer_note": "",
+      "heading_en": "대법원 2009모1190결정",
+      "heading_ko": "디지털 자료는 압수 대상인가",
+      "type": "content"
+    },
+    {
+      "caption": "디지털 증거가 압수목적물일 경우, 디지털 기기를 반출하는 것은 원칙적으로 허용되지 않는다",
+      "figure_html": "<img src=\"images/2009모1190결정.png\">",
+      "footer_note": "",
+      "heading_en": "대법원 2009모1190결정",
+      "heading_ko": "디지털 자료는 압수 대상인가",
+      "type": "visual"
+    },
+    {
+      "caption": "대법원 2022. 1. 27. 선고 2021도11170 판결",
+      "figure_html": "<img src=\"images/그림1.png\">",
+      "footer_note": "",
+      "heading_en": "압수물의 주인인 피의자 등 관계자 판단",
+      "heading_ko": "압수수색 당사자성",
+      "type": "visual"
+    },
+    {
+      "caption": "대법원 2022. 1. 27. 선고 2021도11170 판결",
+      "figure_html": "<img src=\"images/그림2.png\">",
+      "footer_note": "",
+      "heading_en": "압수물의 주인인 피의자 등 관계자 판단",
+      "heading_ko": "압수수색 당사자성",
+      "type": "visual"
+    },
+    {
+      "chapter_figure": "",
+      "signature": "section // {{chapter_num}} of {{chapter_total}}",
+      "title_en": "write the form",
+      "title_ko": "서식 작성해보기",
+      "type": "chapter"
+    },
+    {
+      "body_html": "<ul><li>영장제시 및 사본 교부(118)</li><li>압수사실 및 참여권 고지(121-122)</li><li>장소, 신체 수색(109, 124)</li><li>압수물 취득(106~)</li><li>야간집행의 제한(125-126)</li><li>압수목록 교부(129)</li><li>압수물 폐기, 환부 및 관련 사실 통지(130-135)</li></ul>",
+      "footer_note": "",
+      "heading_en": "평온 유지, 방어권 보장",
+      "heading_ko": "압수수색절차(형사소송법)",
+      "type": "content"
+    },
+    {
+      "caption": "",
+      "figure_html": "<img src=\"images/그림3.png\">",
+      "footer_note": "",
+      "heading_en": "형사소송법  제129조(압수목록의 교부) 압수한 경우에는 목록을 작성하여 소유자, 소지자, 보관자 기타 이에 준할 자에게 교부하여야 한다.",
+      "heading_ko": "압수목록",
+      "type": "visual"
+    },
+    {
+      "footer_note": "",
+      "heading_en": "Key Takeaways",
+      "heading_ko": "핵심 정리",
+      "lead": "누구에게 서명을 받을지 이해하기",
+      "points_html": "<li>압수수색 당사자성 이해</li><li>디지털 증거의 압수</li><li>서식 작성 실습</li>",
+      "type": "summary"
+    },
+    {
+      "type": "visual",
+      "heading_ko": "생각과 같았나요?",
+      "heading_en": "정보저장매체 등의 전속적 관리처분권",
+      "figure_html": "<img src=\"images/fb6c946f-96e3-4bd1-be96-ec22afaa6fcb.png\">",
+      "caption": "",
+      "footer_note": ""
+    },
+    {
+      "footer_note": "",
+      "heading_en": "",
+      "heading_ko": "",
+      "qa_html": "<div class=\"qa-item\"><p class=\"q\">참고자료는?</p><p class=\"a\">임의제출물 압수에 관한 연구(서울대학교,  2022, 소유지와 제출자의 관계 등) , 디지털 증거와 범죄사실의 관련성에 관한 연구(서울대학교, 2015, 디지털 증거가 압수 대상인지 등), 민법상 물건에 관한 연구(성균관대학교, 2004, 유체물과 무체물의 구분 등)</p></div><div class=\"qa-item\"><p class=\"q\">무엇을 이해하여야 하는가?</p><p class=\"a\">압수수색은 영장에 명시된 대상을 <strong>제한적</strong>으로 수행하여야 한다. 압수수색은 헌법상 국민에게 보장되는 <strong>기본권</strong>을 침해하는 행위이기 때문이다. 이 때 기본권 보장을 위해 <strong>방어권</strong>을 보장하여야 하며, 이는 평온 유지를 준수하고 압수수색 과정 전반의 참여권 보장 및 압수목록 교부 등의 의무이다.</p></div>",
+      "type": "qa"
+    },
+    {
+      "closing_en": "Thank You",
+      "closing_ko": "감사합니다",
+      "contact": "",
+      "prompt": "질문을 환영합니다 · Q&A",
+      "signature": "",
+      "type": "closing"
+    }
+  ]
+}
