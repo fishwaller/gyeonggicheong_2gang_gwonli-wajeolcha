@@ -10,7 +10,7 @@
   "slides": [
     {
       "author": "부산지방고용노동청 디지털포렌식팀",
-      "date": "2026.00.00",
+      "date": "2026.08.19.",
       "kicker": "PRESENTATION",
       "signature": "",
       "subtitle": "서류는 누가 참여하여 서명하는가",
@@ -26,12 +26,12 @@
       "type": "content"
     },
     {
-      "type": "visual",
-      "heading_ko": "생각해보기",
-      "heading_en": "서식을 작성할 때 누구에게 서명을 받을까?",
-      "figure_html": "<img src=\"images/fb6c946f-96e3-4bd1-be96-ec22afaa6fcb - 복사본.png\">",
       "caption": "",
-      "footer_note": ""
+      "figure_html": "<img src=\"images/fb6c946f-96e3-4bd1-be96-ec22afaa6fcb - 복사본.png\">",
+      "footer_note": "",
+      "heading_en": "서식을 작성할 때 누구에게 서명을 받을까?",
+      "heading_ko": "생각해보기",
+      "type": "visual"
     },
     {
       "_도움말": "목차는 비워 두세요. build 하면 덱 안의 chapter 슬라이드 제목·번호가 자동으로 채워집니다.",
@@ -171,12 +171,12 @@
       "type": "summary"
     },
     {
-      "type": "visual",
-      "heading_ko": "생각과 같았나요?",
-      "heading_en": "정보저장매체 등의 전속적 관리처분권",
-      "figure_html": "<img src=\"images/fb6c946f-96e3-4bd1-be96-ec22afaa6fcb.png\">",
       "caption": "",
-      "footer_note": ""
+      "figure_html": "<img src=\"images/fb6c946f-96e3-4bd1-be96-ec22afaa6fcb.png\">",
+      "footer_note": "",
+      "heading_en": "정보저장매체 등의 전속적 관리처분권",
+      "heading_ko": "생각과 같았나요?",
+      "type": "visual"
     },
     {
       "footer_note": "",
